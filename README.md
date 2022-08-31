@@ -1,16 +1,2 @@
-# notes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# notes new flutter application created by using sqflite and flutter widgets
+![Apple iPhssone 11 Pro Max Presentation](https://user-images.githubusercontent.com/112031810/187804964-a6fe0182-8132-49c4-a57c-aa7975f7b04b.png)
